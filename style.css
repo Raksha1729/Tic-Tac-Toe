@@ -42,3 +42,26 @@ body{
     border-radius: 1rem;
     border: none;
 }
+#new-btn{
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 1rem;
+    border: none;
+}
+.msg-container{
+    height: 100vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 4rem;
+}
+#msg{
+    color: blueviolet;
+    font-size: 5vmin;
+}
+.hide{
+    display: none;
+}
